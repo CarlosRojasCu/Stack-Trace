@@ -1,0 +1,4 @@
+[01-07-22 18:39:24.526] ERROR: General     , 1656715164526> ExceptionLogger.logException> Exception thrown java.util.concurrent.ExecutionException: zombie.util.PZXmlParserException: Exception thrown while parsing XML file "media/clothing/clothingItems/Hat_Opscore_FAST.xml"
+  Caused by:
+    java.io.FileNotFoundException: media\clothing\clothingItems\Hat_Opscore_FAST.xml (El sistema no puede encontrar el archivo especificado) at FutureTask.report. Message: media/clothing/clothingItems/Hat_Opscore_FAST.xml.
+[01-07-22 18:39:24.601] ERROR: General     , 1656715164601> DebugLogStream.printException> Stack trace:.
